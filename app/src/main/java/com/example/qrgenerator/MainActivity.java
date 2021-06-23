@@ -107,3 +107,4 @@ public class MainActivity extends AppCompatActivity {
 Email = (EditText)findViewById(R.id.email);
         Reset_Password = (Button)findViewById(R.id.reset_password);
         firebaseAuth = FirebaseAuth.getInstance();
+        11188
